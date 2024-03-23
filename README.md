@@ -1,6 +1,8 @@
 # Expense-Splitter
 An interactive Streamlit app for splitting expenses among multiple members, facilitating input of expenses, and calculating fair settlements.
 
+## Streamlit app link: https://expense-splitter.streamlit.app/
+
 ## Features
 
 - **Expense Tracking**: Enter expenses with details such as date, person, amount, and reason.
